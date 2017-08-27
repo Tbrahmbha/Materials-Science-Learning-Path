@@ -18,7 +18,10 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 ### Thermodynamics
-
+[Introduction to Thermodynamics: Transferring Energy from Here to There](https://www.coursera.org/learn/thermodynamics-intro)
+[Statistical Molecular Thermodynamics](https://www.coursera.org/learn/statistical-thermodynamics)
+[Statistical Thermodynamics: Molecules to Machines](https://www.coursera.org/learn/statistical-thermodynamics-cm)
+[Thermodynamics](https://www.edx.org/course/thermodynamics-iitbombayx-me209-1x-1#!)
 
 ### Introduction to Materials Science
 [Materials Science: 10 things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)
@@ -79,7 +82,9 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 ### Cellular Solids: Structures, Properties, and Applications
 [Cellular Solids 1: Structures, Properties and Engineering Applications](https://www.edx.org/course/cellular-solids-1-structures-properties-mitx-3-054-1x-0)
+
 [Cellular Solids Part 2: Applications in Medicine](https://www.edx.org/course/cellular-solids-part-2-applications-mitx-3-054-2x-0)|
+
 [https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0](https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0)|
 
 ### Polymers
@@ -92,14 +97,26 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 ### Symmetry, Structure and Tensor Properties of Materials
 [Symmetry, Structure and Tensor Properties of Materials](https://www.edx.org/course/symmetry-structure-tensor-properties-mitx-3-072x#!)
 
+### Energy and Photovoltaic Applications
+[Fundamentals of Photovoltaics](https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/)
 
 ### Solid State Chemistry
 [Introduction to Solid State Chemistry](https://www.edx.org/course/introduction-solid-state-chemistry-mitx-3-091x-5)
 
+### Physical Chemistry
+[Introduction to Physical Chemistry](https://www.coursera.org/learn/physical-chemistry)
+[Physical Chemistry](https://ocw.mit.edu/courses/chemistry/5-61-physical-chemistry-fall-2013/)
+
+### Vacuum Systems
+[Vacuum Systems and Technology](https://www.edx.org/course/vacuum-systems-technology-mephix-mephi004x)
+
 ### Nanomaterials and Technology
 [Nanotechnology and Nanosensors, Part1](https://www.coursera.org/learn/nanotechnology1)
 [Nanotechnology and Nanosensors, Part 2](https://www.coursera.org/learn/nanotechnology2)
+[Nanotechnology: Fundamentals of Nanotransistors](https://www.edx.org/course/nanotechnology-fundamentals-purduex-nano530x)
 
+### Analytical Chemistry
+[Introduction to Molecular Spectroscopy](https://www.coursera.org/learn/spectroscopy)
 
 
 
