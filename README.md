@@ -15,4 +15,4 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 ### Introduction to Materials Science
-[Materials Science: 10 things Every Engineer Should Know] (https://www.coursera.org/learn/materials-science)
+[Materials Science: 10 things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)
