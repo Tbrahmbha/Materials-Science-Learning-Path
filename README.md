@@ -104,7 +104,7 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 [Cellular Solids Part 2: Applications in Medicine](https://www.edx.org/course/cellular-solids-part-2-applications-mitx-3-054-2x-0)[]
 
-[https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0](https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0) []
+[Cellular Solids Part 3: Applications in Nature](https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0) []
 
 ### Polymers
 [Polymer Physics](https://ocw.mit.edu/courses/materials-science-and-engineering/3-063-polymer-physics-spring-2007/) []
