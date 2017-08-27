@@ -5,8 +5,8 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 =================
 
 ### Single Variable Calculus
-[Calculus For Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/)
-[Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+-[Calculus For Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/)[]
+-[Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)[]
 
 ### Multivariable Calculus
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
