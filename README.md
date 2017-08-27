@@ -23,6 +23,9 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 [Statistical Thermodynamics: Molecules to Machines](https://www.coursera.org/learn/statistical-thermodynamics-cm)
 [Thermodynamics](https://www.edx.org/course/thermodynamics-iitbombayx-me209-1x-1#!)
 
+### Finite Element Analysis
+[The Finite Element Method for Problems in Physics](https://www.coursera.org/learn/finite-element-method)
+
 ### Introduction to Materials Science
 [Materials Science: 10 things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)
 [Materials Science & Engineering](https://www.edx.org/course/materials-science-engineering-misisx-mse1x#!)
@@ -65,8 +68,11 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 
 
+
 ## Electives
 =============
+### Transport Phenomena
+[The Basics of Transport Phenomena](https://www.edx.org/course/basics-transport-phenomena-delftx-tp101x-1)
 
 ### Materials Development Techniques
 [Introduction to High-Throughput Materials Development](https://www.coursera.org/learn/high-throughput)
@@ -99,9 +105,15 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 ### Energy and Photovoltaic Applications
 [Fundamentals of Photovoltaics](https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/)
+[Solar Cells, Fuel Cells and Batteries](https://lagunita.stanford.edu/courses/Engineering/Solar/Fall2013/about)
+[Organic Solar Cells - Theory and Practice](https://www.coursera.org/learn/solar-cell)
 
 ### Solid State Chemistry
 [Introduction to Solid State Chemistry](https://www.edx.org/course/introduction-solid-state-chemistry-mitx-3-091x-5)
+
+### Quantum Physics
+[Quantum Mechanics for Scientists and Engineers 1](https://lagunita.stanford.edu/courses/course-v1:Engineering+QMSE01+Fall2016/about)
+[Quantum Mechanics for Scientists and Engineers 2](https://lagunita.stanford.edu/courses/course-v1:Engineering+QMSE02+Winter2017/about)
 
 ### Physical Chemistry
 [Introduction to Physical Chemistry](https://www.coursera.org/learn/physical-chemistry)
