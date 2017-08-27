@@ -23,7 +23,7 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 ### Introduction to Materials Science
 [Materials Science: 10 things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)
 [Materials Science & Engineering](https://www.edx.org/course/materials-science-engineering-misisx-mse1x#!)
-[Fundamentals of Materials Science](Fundamentals of Materials Science)
+[Fundamentals of Materials Science](https://ocw.mit.edu/courses/materials-science-and-engineering/3-012-fundamentals-of-materials-science-fall-2005/)
 
 ### Materials Laboratory
 [Materials Laboratory](https://ocw.mit.edu/courses/materials-science-and-engineering/3-014-materials-laboratory-fall-2006/)
@@ -54,8 +54,8 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 [Material Processing](https://www.coursera.org/learn/material-science-engineering)
 
 ### Computing for Materials Scientists
-[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
-[Introduction to Modeling and Simulation](https://ocw.mit.edu/courses/materials-science-and-engineering/3-021j-introduction-to-modeling-and-simulation-spring-2012/index.htm)
+[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)|
+[Introduction to Modeling and Simulation](https://ocw.mit.edu/courses/materials-science-and-engineering/3-021j-introduction-to-modeling-and-simulation-spring-2012/index.htm)|
 [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
 [Mathematics for Materials Scientists and Engineers](https://ocw.mit.edu/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/index.htm)
 
@@ -79,8 +79,8 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 ### Cellular Solids: Structures, Properties, and Applications
 [Cellular Solids 1: Structures, Properties and Engineering Applications](https://www.edx.org/course/cellular-solids-1-structures-properties-mitx-3-054-1x-0)
-[Cellular Solids Part 2: Applications in Medicine](https://www.edx.org/course/cellular-solids-part-2-applications-mitx-3-054-2x-0)
-[https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0](https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0)
+[Cellular Solids Part 2: Applications in Medicine](https://www.edx.org/course/cellular-solids-part-2-applications-mitx-3-054-2x-0)|
+[https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0](https://www.edx.org/course/cellular-solids-part-3-applications-mitx-3-054-3x-0)|
 
 ### Polymers
 [Polymer Physics](https://ocw.mit.edu/courses/materials-science-and-engineering/3-063-polymer-physics-spring-2007/)
