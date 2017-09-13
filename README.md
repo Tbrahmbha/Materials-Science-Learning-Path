@@ -64,7 +64,9 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 [Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories](https://www.coursera.org/learn/materials-structures) []
 
-[Fracture and Fatigue](https://ocw.mit.edu/courses/materials-science-and-engineering/3-35-fracture-and-fatigue-fall-2003/index.htm)
+[Fracture and Fatigue](https://ocw.mit.edu/courses/materials-science-and-engineering/3-35-fracture-and-fatigue-fall-2003/index.htm) []
+
+[Structural Mechanics](https://ocw.mit.edu/courses/mechanical-engineering/2-080j-structural-mechanics-fall-2013/) []
 
 ### Organic and Biomaterials Chemistry
 [Organic & Biomaterials Chemistry](https://ocw.mit.edu/courses/materials-science-and-engineering/3-034-organic-biomaterials-chemistry-fall-2005/) []
