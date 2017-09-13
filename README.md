@@ -162,6 +162,11 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 ### Ceramic Materials
 [Cement Chemistry and Sustainable Cementitious Materials](https://www.edx.org/course/cement-chemistry-sustainable-epflx-cementx)
 
+### Material Lifecycles and Economics of Materials
+[Ciruclar Economy](https://www.edx.org/course/circular-economy-wageningenx-bb05x) []
+
+[Circular Economy: An Introduction](https://www.edx.org/course/circular-economy-introduction-delftx-circularx-2) []
+
 ## Data Sources
 ====================
 
