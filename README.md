@@ -88,6 +88,9 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 [Nanophotonic Modeling](https://www.edx.org/course/nanophotonic-modeling-purduex-nano540x) []
 
+[From Atoms to Materials: Predictive Theory and Simulations](https://www.edx.org/course/atoms-materials-predictive-theory-purduex-mse550x) []
+
+
 ## Electives
 =============
 ### Transport Phenomena
