@@ -172,4 +172,6 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 [Crystallography Database](http://wiki.crystallography.net/howtoquerycod/)
 
+[Materials Genome Initiative](https://mgi.nist.gov/OnlineResource) 
+
 
