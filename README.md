@@ -86,6 +86,8 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 
 [Mathematics for Materials Scientists and Engineers](https://ocw.mit.edu/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/index.htm) []
 
+[Nanophotonic Modeling](https://www.edx.org/course/nanophotonic-modeling-purduex-nano540x) []
+
 ## Electives
 =============
 ### Transport Phenomena
