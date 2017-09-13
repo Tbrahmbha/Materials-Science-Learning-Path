@@ -159,6 +159,8 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 ### Analytical Chemistry
 [Introduction to Molecular Spectroscopy](https://www.coursera.org/learn/spectroscopy) []
 
+### Ceramic Materials
+[Cement Chemistry and Sustainable Cementitious Materials](https://www.edx.org/course/cement-chemistry-sustainable-epflx-cementx)
 
 ## Data Sources
 ====================
