@@ -31,7 +31,7 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 [The Finite Element Method for Problems in Physics](https://www.coursera.org/learn/finite-element-method) []
 
 ### Introduction to Materials Science
-[Materials Science: 10 things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)-[x]
+[Materials Science: 10 things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)- [x]
 
 [Materials Science & Engineering](https://www.edx.org/course/materials-science-engineering-misisx-mse1x#!) []
 
