@@ -28,9 +28,9 @@ http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/
 [Thermodynamics](https://www.edx.org/course/thermodynamics-iitbombayx-me209-1x-1#!) []
 
 ### Finite Element Analysis
-[The Finite Element Method for Problems in Physics](https://www.coursera.org/learn/finite-element-method) []
+[The Finite Element Method for Problems in Physics](https://www.coursera.org/learn/finite-element-method)-[]
 
-[High Performance Finite Element Modeling] (https://www.edx.org/course/high-performance-finite-element-modeling-kthx-hpfem01-1x) []
+[High Performance Finite Element Modeling](https://www.edx.org/course/high-performance-finite-element-modeling-kthx-hpfem01-1x)-[]
 
 ### Introduction to Materials Science
 [Materials Science: 10 things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)- [x]
